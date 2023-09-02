@@ -32,6 +32,12 @@ This software is provided "as-is" without any warranties or guarantees. Users sh
 ### Strategy
 ![Settings](./src/main/resources/strategy.png)
 
+## 📦 Downloads
+
+[FlitterApplication v1.0.0 for Windows](https://github.com/berstainmark/FlitterApplication/releases/download/v1.0.0/Flitter.v1.0.0.for.Windows.zip)
+
+[FlitterApplication v1.0.0 for Mac (M1/M2)](https://github.com/berstainmark/FlitterApplication/releases/download/v1.0.0/Flitter.v1.0.0.for.Mac.M1.M2.dmg)
+
 ## 💾 Installation
 
 1. Clone the repository
